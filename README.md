@@ -1,4 +1,5 @@
 # Alexandria-TourGuid-App
+The goal was to create a tour guide app which presents relevant information about a chosen city. The app was expected to list top attractions, restaurants, public places, or hotels  for the city.
 ## Android Goodies
     ViewPager.
     Fragments.
